@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cccc7ce-50e4-4d59-bc3f-3fc192249aca": {
+      "ProjectGuid": "8cccc7ce-50e4-4d59-bc3f-3fc192249aca",
+      "DisplayName": "Сладкоежка",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
